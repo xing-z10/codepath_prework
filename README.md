@@ -2,7 +2,7 @@
 
 Submitted by: Xing Zhou
 
-**Codepath_prework** is an app that contains my name, university and job title. It can change the color of the background [TODO] 
+**Codepath_prework** is an app that contains my name, university and job title. It can change the color of the background
 
 Time spent: 1 hours spent in total
 
@@ -10,8 +10,8 @@ Time spent: 1 hours spent in total
 
 The following **required** functionality is completed:
 
-- [✅] Users are see a screen with three labels and a button
-- [✅] Tapping the button changes the screen color to a random color
+- ✅ Users are see a screen with three labels and a button
+- ✅ Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
