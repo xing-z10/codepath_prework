@@ -19,6 +19,18 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 
 ## App Brainstorming (Step 4)
+- Favorite applications
+    - What's app
+        - Background color will follow the system color
+        - Good layout easy to use
+    - Bilibili
+        - Easy browsing layout
+        - Good color combination for both daytime layout and dark mode
+        - Open screen ad. This is good for the App operation, but not a good thing for user.
+
+- App idea to build
+    - Instagram
+        Currently I feel instagram that contains too many ad, that I feel I cannot really spend time seeing my friends moment. Need to rebalance the protion of ad and friends' post. Also, I feel when I use ins, it is not easy to change another tab with one hand, need to redesign the funciton action.
 
 ## Notes
 
